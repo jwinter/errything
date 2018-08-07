@@ -1,0 +1,4 @@
+*.jar
+target/*
+.nrepl-port
+.lein-failures
